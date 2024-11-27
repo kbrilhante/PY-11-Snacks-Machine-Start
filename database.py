@@ -1,4 +1,4 @@
-SUPPLIES = {
+supplies = {
     "chocolate bar": {
         "price": 5,
         "amount": 14,
